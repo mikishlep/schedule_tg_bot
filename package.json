@@ -1,0 +1,22 @@
+{
+  "name": "popup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.28.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^22.0.0",
+    "sharp": "^0.33.2",
+    "sqlite3": "^5.1.7",
+    "telegraf": "^4.15.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
